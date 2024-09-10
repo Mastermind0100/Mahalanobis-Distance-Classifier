@@ -1,4 +1,4 @@
-# EE6222 Assignment 1
+# Mahalanobis Distance based Image Classifier
 Dimensionality Reduction with Mahalanobis Distance Classifier.<br>
 
 ## Steps to Run Code
